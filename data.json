@@ -1,0 +1,16 @@
+{
+    "name": "Example User",
+    "age": 30,
+    "email": "user@example.com",
+    "is_active": true,
+    "tags": [
+        "python",
+        "json",
+        "programming"
+    ],
+    "preferences": {
+        "theme": "dark",
+        "notifications": false
+    },
+    "last_login": null
+}
